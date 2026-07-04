@@ -14,9 +14,6 @@
 "Advanced Settings" = "Cài đặt nâng cao";
 
 /* No comment provided by engineer. */
-"Advertisement" = "Quảng Cáo";
-
-/* No comment provided by engineer. */
 "After the app upgrade, any injected plugins will be disabled. You will need to manually re-enable them." = "Sau khi nâng cấp ứng dụng, bất kỳ plugin nào đã được tiêm sẽ bị vô hiệu hóa. Bạn sẽ cần phải kích hoạt lại chúng một cách thủ công.";
 
 /* No comment provided by engineer. */
@@ -30,12 +27,6 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to eject all plug-ins? This action cannot be undone." = "Bạn có chắc chắn muốn gỡ bỏ tất cả plug-in không? Hành động này không thể hoàn tác.";
-
-/* No comment provided by engineer. */
-"Bringing back the most advanced system and security analysis tool." = "Mang trở lại công cụ phân tích hệ thống và bảo mật tiên tiến nhất.";
-
-/* No comment provided by engineer. */
-"Buy our paid products to support us if you like TrollFools!" = "Mua sản phẩm trả phí của chúng tôi để ủng hộ chúng tôi nếu bạn thích TrollFools!";
 
 /* No comment provided by engineer. */
 "Cancel" = "Hủy";
@@ -113,16 +104,10 @@
 "Fast" = "Tiêm nhanh";
 
 /* No comment provided by engineer. */
-"Fast, feature-rich VNC server for iOS: remote control made simple." = "Máy chủ VNC nhanh, nhiều tính năng cho iOS: điều khiển từ xa trở nên đơn giản.";
-
-/* No comment provided by engineer. */
 "If needed, TrollFools will use a compatibility mode to improve success rate. Keeping this on is recommended." = "Nếu cần, TrollFools sẽ sử dụng chế độ tương thích để cải thiện tỷ lệ thành công. Nên bật chế độ này.";
 
 /* No comment provided by engineer. */
 "Filza (URL Scheme) Not Installed" = "Filza (URL Scheme) chưa được cài đặt.";
-
-/* No comment provided by engineer. */
-"Full-Fledged Automation Framework for TrollStore." = "Framework tự động hóa toàn diện cho TrollStore.";
 
 /* No comment provided by engineer. */
 "Hide" = "Ẩn";
@@ -227,12 +212,6 @@
 "Rebuild Icon Cache" = "Làm mới bộ nhớ đệm biểu tượng";
 
 /* No comment provided by engineer. */
-"Record your phone calls like never before." = "Ghi âm cuộc gọi điện thoại của Bạn chưa từng có trước đây.";
-
-/* No comment provided by engineer. */
-"Reveil" = "Reveil";
-
-/* No comment provided by engineer. */
 "Search Patched…" = "Tìm kiếm sửa đổi…";
 
 /* No comment provided by engineer. */
@@ -263,22 +242,13 @@
 "The content of text file “%@” is empty." = "Nội dung của tệp văn bản “%@” trống.";
 
 /* No comment provided by engineer. */
-"This is an advertisement." = "Đây là một quảng cáo.";
-
-/* No comment provided by engineer. */
 "TrollFools" = "TrollFools";
-
-/* No comment provided by engineer. */
-"TrollRecorder" = "TrollRecorder";
 
 /* No comment provided by engineer. */
 "TrollStore" = "TrollStore";
 
 /* No comment provided by engineer. */
 "TrollStore Applications" = "Ứng dụng TrollStore";
-
-/* No comment provided by engineer. */
-"TrollVNC" = "TrollVNC";
 
 /* No comment provided by engineer. */
 "Unable to locate the data archive in the Debian package." = "Không thể tìm thấy kho lưu trữ dữ liệu trong gói Debian.";
@@ -300,9 +270,6 @@
 
 /* No comment provided by engineer. */
 "View Logs" = "Xem nhật ký";
-
-/* No comment provided by engineer. */
-"XXTouch Elite TS" = "XXTouch Elite TS";
 
 /* No comment provided by engineer. */
 "You need to rebuild the icon cache in TrollStore to apply changes." = "Bạn cần làm mới bộ nhớ đệm biểu tượng trong TrollStore để áp dụng các thay đổi.";

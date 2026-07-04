@@ -14,9 +14,6 @@
 "Advanced Settings" = "高级选项";
 
 /* No comment provided by engineer. */
-"Advertisement" = "广告";
-
-/* No comment provided by engineer. */
 "After the app upgrade, any injected plugins will be disabled. You will need to manually re-enable them." = "App 更新后，所有已注入的插件都会被禁用。你需要手动重新启用它们。";
 
 /* No comment provided by engineer. */
@@ -30,12 +27,6 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to eject all plug-ins? This action cannot be undone." = "你确定要推出所有插件吗？此操作无法撤销。";
-
-/* No comment provided by engineer. */
-"Bringing back the most advanced system and security analysis tool." = "最强大的系统和安全分析工具，再次归来。";
-
-/* No comment provided by engineer. */
-"Buy our paid products to support us if you like TrollFools!" = "如果你喜欢巨魔注入器，请购买我们的付费产品以支持我们！";
 
 /* StripedTextTableViewController */
 "Cancel" = "取消";
@@ -113,16 +104,10 @@
 "Fast" = "快速";
 
 /* No comment provided by engineer. */
-"Fast, feature-rich VNC server for iOS: remote control made simple." = "功能强大的 iOS VNC 服务器：远程控制，从未如此简单。";
-
-/* No comment provided by engineer. */
 "If needed, TrollFools will use a compatibility mode to improve success rate. Keeping this on is recommended." = "当常规方式效果不稳定时，TrollFools 会自动尝试兼容模式以提高成功率。建议保持开启。";
 
 /* No comment provided by engineer. */
 "Filza (URL Scheme) Not Installed" = "未安装支持 URL Scheme 的 Filza";
-
-/* No comment provided by engineer. */
-"Full-Fledged Automation Framework for TrollStore." = "适用于 TrollStore 的全功能自动化框架。";
 
 /* No comment provided by engineer. */
 "Hide" = "隐藏";
@@ -227,12 +212,6 @@
 "Rebuild Icon Cache" = "重建图标缓存";
 
 /* No comment provided by engineer. */
-"Record your phone calls like never before." = "通话录音，从未如此简单。";
-
-/* No comment provided by engineer. */
-"Reveil" = "Reveil";
-
-/* No comment provided by engineer. */
 "Search Patched…" = "搜索 已注入…";
 
 /* No comment provided by engineer. */
@@ -263,22 +242,13 @@
 "The content of text file “%@” is empty." = "文本文件 “%@” 的内容为空。";
 
 /* No comment provided by engineer. */
-"This is an advertisement." = "这是一则广告。";
-
-/* No comment provided by engineer. */
 "TrollFools" = "巨魔注入器";
-
-/* No comment provided by engineer. */
-"TrollRecorder" = "巨魔录音机";
 
 /* No comment provided by engineer. */
 "TrollStore" = "巨魔应用";
 
 /* No comment provided by engineer. */
 "TrollStore Applications" = "巨魔应用";
-
-/* No comment provided by engineer. */
-"TrollVNC" = "TrollVNC";
 
 /* No comment provided by engineer. */
 "Unable to locate the data archive in the Debian package." = "无法在 Debian 软件包中找到数据归档。";
@@ -300,9 +270,6 @@
 
 /* No comment provided by engineer. */
 "View Logs" = "查看日志";
-
-/* No comment provided by engineer. */
-"XXTouch Elite TS" = "XXTouch Elite TS";
 
 /* No comment provided by engineer. */
 "You need to rebuild the icon cache in TrollStore to apply changes." = "你需要在 TrollStore 中重建图标缓存以应用更改。";
