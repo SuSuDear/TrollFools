@@ -53,7 +53,8 @@ final class App: ObservableObject {
         self.isAllowedToAttachOrDetach = type == "User" && InjectorV3.main.isAllowedToAttachOrDetachMetadataInBundle(url)
         self.isInjected = InjectorV3.main.checkIsInjectedAppBundle(url)
         self.hasPersistedAssets = InjectorV3.main.hasPersistedAssets(bid: bid)
-        self.alternateIcon = alternateIcon        self.latinName = name
+        self.alternateIcon = alternateIcon
+        self.latinName = name
             .applyingTransform(.toLatin, reverse: false)?
             .applyingTransform(.stripDiacritics, reverse: false)?
             .components(separatedBy: .whitespaces)
